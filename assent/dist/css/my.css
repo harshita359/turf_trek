@@ -1,0 +1,166 @@
+.small-box .icon>i{
+    font-size: 70px !important;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    transition: all .3s linear;
+}
+.nav-item .nav-link.active {
+    border-radius: 0.25rem !important;
+    border-width: 3px !important;
+    border-color: #fff !important;
+    border-top: 3px solid #dee2e6 !important;
+    border-bottom: 3px solid #dee2e6 !important;
+}
+.nav-item p{
+    padding-left: 5px !important;
+}
+.login-logo a, .register-logo a {
+    color: #326A1A !important;
+    font-size: 40px !important;
+    font-weight: 500 !important;
+}
+.login-logo img{
+    width: 40%;
+}
+.card-header {
+ 
+    background-color: #e3eae0 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, .125) !important;
+    padding: .75rem 1.25rem !important;
+    position: relative !important;
+    border-top-left-radius: .25rem !important;
+    border-top-right-radius: .25rem !important;
+    font-size: 23px !important;
+    font-weight: 600 !important;
+    color: #326A1A  !important;
+ 
+}
+.btn-success {
+    color: #fff !important;
+    width: 100% !important;
+    background-image: linear-gradient(to top, #648a26, #73963b, #84a553) !important;
+    background-color: #326A1A !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.btn {
+    display: inline-block;
+    font-weight: 500 !important;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem 1.75rem !important;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.911) !important;
+    font-size: 20px !important;
+}
+a {
+    color: #326A1A !important;
+}
+.logo_img{
+    width: 100%;
+} 
+[class*='sidebar-dark-'] {
+    background-color:#fefefe !important;
+    
+}
+[class*='sidebar-dark'] .brand-link {
+    border-bottom: 1px solid #326A1A !important;
+    /* color: rgba(255, 255, 255, 0.8); */
+}
+.text{
+    color: #326A1A !important;
+}
+.content-wrapper {
+   background: #FFFDEB !important;
+}
+[class*='sidebar-dark-'] .nav-sidebar > .nav-item.menu-open > .nav-link, [class*='sidebar-dark-'] .nav-sidebar > .nav-item:hover > .nav-link, [class*='sidebar-dark-'] .nav-sidebar > .nav-item > .nav-link:focus {
+    background-image: linear-gradient(to top, #7ea145, #8fb15a, #adcd7d) !important;
+    color: #ffffff !important;
+}
+.small-box{
+    background-color: #fff;
+}
+.inner h3{
+    color: #326A1A ;
+}
+.inner p{
+    color: #326A1A ;
+}
+.small-box > .small-box-footer {
+    background: #e3ebdf !important;
+    color: rgba(255, 255, 255, 0.8);
+    display: block;
+    padding: 3px 0;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    z-index: 10;
+}
+.small-box .icon {
+    color: #e3ebdf !important;
+    z-index: 0;
+}
+.wrapper {
+    position: relative;
+    background-color: #FFFDEB !important;
+}
+.mx-auto label{
+    color: #326A1A;
+    font-size: 20px;
+}
+.input-group-text{
+    color: #326A1A !important;
+    background-color: #e3ebdf !important;
+    border: 1px solid #cdd9c7 !important;
+}
+.form-control{
+    border: 1px solid #cdd9c7 !important;
+}
+.card-body label{
+    color: #326A1A !important;
+}
+.btn-primary {
+    color: #ffffff;
+    background-image: linear-gradient(to top, #648a26, #73963b, #84a553) !important;
+    background-color: #326A1A !important;
+    border: none !important;
+    box-shadow: none;
+}
+table.dataTable thead>tr>th.sorting_asc, table.dataTable thead>tr>th.sorting_desc, table.dataTable thead>tr>th.sorting, table.dataTable thead>tr>td.sorting_asc, table.dataTable thead>tr>td.sorting_desc, table.dataTable thead>tr>td.sorting {
+    padding-right: 30px;
+    color: #326A1A !important;
+}
+.page-item.active .page-link {
+    z-index: 3;
+    color: #ffffff !important;
+    background-image: linear-gradient(to top, #648a26, #73963b, #84a553) !important;
+    background-color: #326A1A !important;
+    border-color: #dee2e6 !important;
+}
+label:not(.form-check-label):not(.custom-file-label) {
+    font-weight: 600 !important;
+}
+.small-box > .inner {
+    padding: 10px;
+    min-height: 112px;
+}
+.error{
+    color: #bb0000cc;
+    font-size: 12px;
+    font-weight: 600;
+    
+}
